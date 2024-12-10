@@ -55,3 +55,7 @@ let seatAllotment: "aisle" | "middle" | "window";
 
 seatAllotment = "aisle"; //This is fine
 // seatAllotment = "crew"; //Won't work
+
+
+
+export {}

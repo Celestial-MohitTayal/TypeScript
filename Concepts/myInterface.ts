@@ -41,3 +41,5 @@ const mohit: Admin = {
 mohit.email = "mt@mt.com";
 // mohit.dbId = 33;     // not possible because of readonly
  
+
+export  {}
